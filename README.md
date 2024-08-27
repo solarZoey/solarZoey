@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @solarZoey
 - 🏳️‍🌈 Pronouns - She / They / It
+- 🤓 Computer Science Comprehensive | Junior
 
 <!---
 solarZoey/solarZoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
