@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solarZoey
-- 🏳️‍🌈 Pronouns - she / they / it
+- 🏳️‍🌈 Pronouns - it / they / she
 - 🤓 Computer Science Comprehensive | Junior | UNK
 
 <!---
