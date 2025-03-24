@@ -5,6 +5,11 @@
 
 - --
 
+
+
+<details>
+  <summary>ASCII Art Collection (click to view)</summary>
+
 ## Now enjoy some delicious ASCII art :3
 (I didn't make any of it, I just think it's neat)
   
@@ -49,6 +54,8 @@
 　＼二つ
 
 ```
+</details>
+
 <!---
 solarZoey/solarZoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
